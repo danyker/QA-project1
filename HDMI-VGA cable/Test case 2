@@ -1,0 +1,6 @@
+Name: Verify that one side of the cable is VGA connector
+Preconditions: User has the cable available.
+Step by step actions to follow:
+1.	Check connector’s form factor
+2.	Check the number of pins of the connecter are as per specifications
+Expected outcome: The form of the cable is as per the specifications for VGA connector
