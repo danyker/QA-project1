@@ -1,0 +1,6 @@
+Name: Verify that the cable's length is as per specifications
+Actions step by step:
+1. Check specification for cable lenghts
+2. Measure the length of the cable
+3. Compare the two lengths to verify if they are the same
+Expected result: The cable's length is as per the specifications
