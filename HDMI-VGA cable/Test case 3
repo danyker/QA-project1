@@ -1,0 +1,8 @@
+Name: Verify that the cable is showing picture while used HDMI to VGA
+Preconditions: You have the cable and a PC with monitor
+Step by step actions to follow:
+1.	Connect the HDMI end to a computer
+2.	Connect the VGA to a monitor
+3.	Turn on the PC
+4.	Check if a picture is displayed on the monitor
+Expected result: There should be a picture displayed on the monitor
