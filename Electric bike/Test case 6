@@ -1,0 +1,9 @@
+Name: Verify that the bike’s lights are switching on/off
+Description: The purpose of this test is to verify that the lights are present and working
+Preconditions: User has the bike and knows where the lights are.
+Step by step actions to follow:
+1.	Find the button for switching on the light and press it.
+2.	Check that the lights are on.
+3.	Turn off the lights
+4.	Check that there is no light when lights are off.
+Expected outcome: Lights are working when turned on and not working when turned off.
