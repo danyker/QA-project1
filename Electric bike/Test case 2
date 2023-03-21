@@ -1,0 +1,8 @@
+Name: Verify that the electric bike can work properly when used with maximum speed
+Description: The purpose of this test case is to verify that the electric bike is working properly with maximum speed and it keeps running without showing any failures.
+Preconditions: User has turned on the electric bike. We know what the maximum speed is as per the product’s specifications.
+Step by step actions to follow:
+1.	User starts driving the bike
+2.	User accelerates the speed to the defined maximum.
+3.	User decreases the speed and stops.
+Expected outcome: The maximum speed is reached and the bike works without failures.
