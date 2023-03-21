@@ -1,0 +1,11 @@
+Name: Verify that user can charge the battery
+Description: User can easily find how to switch on/off the batter for charging.
+Preconditions: User has the bike with no loaded battery and the charger.
+Step by step actions to follow:
+1.	Connect the battery to the bike
+2.	Connect the other end to the electricity
+3.	Check if the lighting marker for charging is on
+4.	Wait for the battery to be fully charged
+5.	Remove the battery from bike
+6.	Switch on the bike.
+Expected outcome: The battery is fully charged.
