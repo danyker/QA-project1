@@ -1,0 +1,8 @@
+Name: Verify that ordinary bikers can easily find how to switch on/off an electrical bike.
+Description: The purpose of this test is to verify that people who use normal bikes on daily basis can easily orient how to start using an electric bike.
+Preconditions: We have a person who is driving a normal bike and we have an electrical bike
+Step by step actions to follow:
+1.	Find the power button of the bike.
+2.	Switch on the power button.
+3.	Turn of the power button.
+Expected outcome: The user has successfully managed to orient how to turn on/off an electric bike.
