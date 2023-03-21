@@ -1,0 +1,8 @@
+Name: Verify that the electric bike’s break is working
+Description: The purpose of this test case is to verify that the bike’s break can be turned on and manage to stop the bike from moving.
+Preconditions: User has switched on the bike for driving.
+Step by step actions to follow:
+1.	Accelerate the speed and start moving
+2.	Turn on the bike’s brake and notice if the speed is reducing
+3.	Press the brake on its maximum to fully stop the bike
+Expected outcome: The bike’s speed is reducing when pressing the bike and eventually the bike stops.
