@@ -1,0 +1,8 @@
+Name: Verify that the bike is working as expected with max kg of load 
+Actions:
+1. Check the max allowed weight in the specifications
+2. Load the bike with the max allowed weight
+3. Turn on the bike
+4. Press the speed button and start moving
+5. Check if the bike is speeding
+6. Stop the bike.
