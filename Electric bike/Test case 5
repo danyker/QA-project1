@@ -1,0 +1,9 @@
+Name: Verify that the bike’s ring is working
+Description: The purpose is to test that the ring is making an sound when pressing.
+Preconditions: User has the bike.
+Step by step actions to follow:
+1.	Find the ring
+2.	Press the ring
+3.	Listen if a sound is present
+4.	Move your hand from the ring to see if the sound stops
+Expected outcome: The sound is present when pressing the ring
