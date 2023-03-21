@@ -1,0 +1,8 @@
+Name: Verify that the bike can turn its direction during driving
+Description: Verify that the driver can easily turn the bike left/right while moving
+Preconditions: User has the bike switched on.
+Step by step actions to follow:
+1.	Get on the bike and accelerate the speed.
+2.	Turn the steering wheel left to check if the direction is correctly changed
+3.	Turn the steering wheel right to check if the direction is correctly changed
+Expected outcome: The bike changes directions without any problems.
